@@ -1,0 +1,24 @@
+
+
+
+{
+  "login": {
+    "img1": "cacas",
+    "img2": "Valor de la propiedad 2 del primer objeto",
+    "img3": "Valor de la propiedad 3 del primer objeto"
+  },
+
+
+
+
+
+
+
+
+
+
+  "objeto2": {
+    "propiedad1": "Valor de la propiedad 1 del segundo objeto",
+    "propiedad2": "Valor de la propiedad 2 del segundo objeto"
+  }
+}

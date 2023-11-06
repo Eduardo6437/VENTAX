@@ -1,0 +1,30 @@
+{
+  "images": [
+    {
+      "imagePath": "assets/login_img/login-1.svg"
+    },
+    {
+      "imagePath": "assets/login_img/login-2.svg"
+    },
+    {
+      "imagePath": "assets/login_img/login-7.svg"
+    }
+
+  ],
+
+
+
+
+  "burdacopia": [
+    {
+      "imagePath": "assets/login_img/login-1.svg"
+    },
+    {
+      "imagePath": "assets/login_img/login-2.svg"
+    },
+    {
+      "imagePath": "assets/login_img/login-7.svg"
+    }
+
+  ]
+}

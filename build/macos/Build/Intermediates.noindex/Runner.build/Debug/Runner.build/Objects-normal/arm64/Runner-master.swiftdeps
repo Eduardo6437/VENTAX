@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "fe2104a6b44ebeea96826f6c1bc89c92b659ee0bb6b001ffcbaf95461a373d6c"
+build_start_time: [1697681647, 977850914]
+build_end_time: [1697681649, 545526981]
+inputs:
+  "/Users/eduardogarcia/AndroidStudioProjects/ventaX/macos/Flutter/GeneratedPluginRegistrant.swift": [1697681643, 7028102]
+  "/Users/eduardogarcia/AndroidStudioProjects/ventaX/macos/Runner/AppDelegate.swift": [1695832098, 0]
+  "/Users/eduardogarcia/AndroidStudioProjects/ventaX/macos/Runner/MainFlutterWindow.swift": [1695832098, 0]

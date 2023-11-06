@@ -1,0 +1,29 @@
+
+{
+ "login": [
+    {
+      "text": "Fácil manejo de tu tienda"
+    },
+    {
+      "text": "Reportes de ventas"
+    },
+    {
+      "text": "Ve crecer tus negocios"
+    }
+  ],
+
+
+
+
+
+  "objeto2": {
+    "propiedad1": "Valor de la propiedad 1 del segundo objeto",
+    "propiedad2": "Valor de la propiedad 2 del segundo objeto"
+  }
+
+
+
+
+
+
+}
