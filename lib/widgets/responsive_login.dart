@@ -12,7 +12,7 @@ class ResponsiveLogin extends StatelessWidget {
       // Pantallas más grandes (mayores de 900px)
       // return LargeScreenLayout();
      // return MainButton();
-      return MyButton();
+      return MobileScreenLayout();
     } else {
       // Pantallas móviles
         return MobileScreenLayout();

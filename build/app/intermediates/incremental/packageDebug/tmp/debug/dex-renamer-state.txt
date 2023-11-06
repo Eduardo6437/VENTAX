@@ -1,4 +1,4 @@
-#Sat Oct 28 11:29:40 CST 2023
+#Sun Nov 05 20:30:38 CST 2023
 base.0=/Users/eduardogarcia/Coding/AndroidStudioProjects/VENTAX/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

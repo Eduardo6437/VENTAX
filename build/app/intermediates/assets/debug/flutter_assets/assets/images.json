@@ -1,42 +1,30 @@
 {
   "images": [
     {
-      "title": "Login-1",
       "imagePath": "assets/login_img/login-1.svg"
     },
     {
-
-      "title": "Login-2",
       "imagePath": "assets/login_img/login-2.svg"
     },
     {
-
-      "title": "Login-3",
       "imagePath": "assets/login_img/login-7.svg"
     }
+
   ],
 
 
 
 
-  "otras": [
+  "burdacopia": [
     {
-      "id": 1,
-      "title": "Login-1",
-      "description": "Hermosa playa con palmeras",
-      "imageUrl": "assets/login_img/login-1.svg"
+      "imagePath": "assets/login_img/login-1.svg"
     },
     {
-      "id": 2,
-      "title": "Login-2",
-      "description": "Vistas panorámicas de las montañas",
-      "imageUrl": "assets/login_img/login-2.svg"
+      "imagePath": "assets/login_img/login-2.svg"
     },
     {
-      "id": 3,
-      "title": "Login-3",
-      "description": "Luces de la ciudad en la noche",
-      "imageUrl": "assets/login_img/login-7.svg"
+      "imagePath": "assets/login_img/login-7.svg"
     }
+
   ]
 }

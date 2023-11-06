@@ -61,10 +61,10 @@ class MobileScreenLayout extends StatelessWidget {
           // ),
 
 
-      SvgImageSlider(
-        imagesJsonPath: 'assets/images.json',
-        textJsonPath: 'assets/text.json',
-      ),
+      // SvgImageSlider(
+      //   imagesJsonPath: 'assets/images.json',
+      //   textJsonPath: 'assets/text.json',
+      // ),
 
 
 

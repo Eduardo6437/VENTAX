@@ -37,7 +37,7 @@ class MyButton extends StatelessWidget {
 
 
 
-          const SizedBox(height: 20), // Espacio entre los botones
+          //const SizedBox(height: 20), // Espacio entre los botones
           FractionallySizedBox(
             widthFactor: 1.0,
             //heightFactor: 1.0, // El botón ocupa el 100% del ancho disponible

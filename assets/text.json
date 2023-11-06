@@ -15,15 +15,13 @@
 
 
 
+  "login-button": [
+    {
+      "text": "desde el json naranja"
+    },
+    {
+      "text": "desde el json blanco"
+    }
 
-  "objeto2": {
-    "propiedad1": "Valor de la propiedad 1 del segundo objeto",
-    "propiedad2": "Valor de la propiedad 2 del segundo objeto"
-  }
-
-
-
-
-
-
+  ]
 }
